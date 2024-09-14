@@ -5,6 +5,10 @@ make sure to install
 - feh (set the background in i3 config)
 - picom
 
+change rasi theme:
+- in i3 config
+- in polybar/scripts/powermenu.sh
+
 polybar:
 - make sure to change network settings for you
 - change font
