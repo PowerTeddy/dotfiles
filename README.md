@@ -7,3 +7,4 @@ make sure to install
 
 polybar:
 - make sure to change network settings for you
+- change font
