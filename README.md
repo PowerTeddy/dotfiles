@@ -1,4 +1,6 @@
-make sure to install 
+make sure to install
+- ie
+- polybar
 - rofi
 - [tokyonight rasi theme](https://github.com/w8ste/Tokyonight-rofi-theme)
 - pulseaudio
