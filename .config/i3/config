@@ -26,7 +26,7 @@ gaps outer 2
 
 # Start picom and background
 exec --no-startup-id picom
-exec --no-startup-id feh --bg-scale ~/Pictures/the-dinner-turner.webp
+exec --no-startup-id feh --bg-scale ~/.config/i3/Background/The-dinner-turner.webp
 
 # Start polybar
 exec --no-startup-id polybar
