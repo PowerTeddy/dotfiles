@@ -1,5 +1,5 @@
 make sure to install
-- ie
+- i3
 - polybar
 - rofi
 - [tokyonight rasi theme](https://github.com/w8ste/Tokyonight-rofi-theme)
