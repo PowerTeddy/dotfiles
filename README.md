@@ -1,6 +1,7 @@
 make sure to install
 - i3
 - polybar
+- fish
 - rofi
 - [tokyonight rasi theme](https://github.com/w8ste/Tokyonight-rofi-theme)
 - pulseaudio
