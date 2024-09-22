@@ -17,5 +17,7 @@ polybar:
 - make sure to change network settings for you
 - change font
 
+vim:
+- run :PlugInstall
 
 ![image](https://github.com/user-attachments/assets/42498d07-823a-4d54-915b-65459d43072a)
