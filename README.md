@@ -4,7 +4,7 @@ make sure to install
 - fish
 - rofi
 - [tokyonight rasi theme](https://github.com/w8ste/Tokyonight-rofi-theme)
-- pulseaudio
+- pipewire-pulse/pulseaudio (need pulse api for polybar)
 - feh (set the background in i3 config)
 - picom
 - Inconsolata Nerd Font Mono (bold)
